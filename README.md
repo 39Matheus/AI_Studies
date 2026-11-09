@@ -1,4 +1,4 @@
-AI Studies
+# AI Studies
 
 <p align="center">
 <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blue">
