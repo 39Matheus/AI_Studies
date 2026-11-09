@@ -40,16 +40,16 @@ I will use this repository to organize my notes, document what I learn, share im
 🗂️ **Repository Structure**
 text
 AI_Studies/
-├── 01-machine-learning-fundamentals/
-├── 02-deep-learning/
-├── 03-large-language-models/
-├── 04-local-llms/
-├── 05-rag/
-├── 06-ai-engineering/
-├── 07-projects/
-├── 08-extras/
-├── resources/
-└── glossary/
+- 01-machine-learning-fundamentals/
+- 02-deep-learning/
+- 03-large-language-models/
+- 04-local-llms/
+- 05-rag/
+- 06-ai-engineering/
+- 07-projects/
+- 08-extras/
+- resources/
+- glossary/
 
 🛠️ **Technologies and Tools**
 - Python
