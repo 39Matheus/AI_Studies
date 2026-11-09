@@ -68,9 +68,13 @@ AI_Studies/
 
 The primary learning resource for this journey is:
 
-[AI Engineering - Ivanovitch](https://github.com/ivanovitchm/aiengineering)
+- [AI Engineering - Ivanovitch](https://github.com/ivanovitchm/aiengineering)
 
 Additional resources, documentation, research papers, and references will be included throughout the repository.
+
+Some other projects will be here:
+
+- [Sim Racing](URL)
 
 📝 **Study Method**
 
